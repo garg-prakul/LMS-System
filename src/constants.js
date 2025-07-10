@@ -1,1 +1,1 @@
-export const DB_NAME="LMS System"
+export const DB_NAME="ACADEMIC MODULES"
